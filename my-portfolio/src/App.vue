@@ -1,17 +1,17 @@
 <template>
   <div>
     <TheHeader />
-    <HomePage />
+    <HomeView />
   </div>
 </template>
 
 <script>
-import HomePage from './views/HomePage.vue'
+import HomeView from './views/HomeView.vue'
 import TheHeader from './components/TheHeader.vue'
 
 export default {
   components: {
-    HomePage,
+    HomeView,
     TheHeader
   }
 }
