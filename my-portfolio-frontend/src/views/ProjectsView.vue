@@ -1,1 +1,5 @@
-<template></template>
+<template>
+    <div>
+        Moje projekciki
+    </div>
+</template>

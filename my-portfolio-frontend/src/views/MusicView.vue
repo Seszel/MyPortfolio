@@ -1,1 +1,5 @@
-<template></template>
+<template>
+    <div>
+        Muzyka!
+    </div>
+</template>

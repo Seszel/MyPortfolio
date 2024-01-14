@@ -6,6 +6,7 @@ import ContactView from '../views/ContactView.vue'
 import ProjectsView from '../views/ProjectsView.vue'
 import ProjectView from '../views/ProjectView.vue'
 import MusicView from '../views/MusicView.vue'
+import NotFoundView from '../views/NotFoundView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -21,26 +22,26 @@ const router = createRouter({
       component: AboutView
     },
     {
-      path: '/contact',
-      name: 'contact',
-      component: ContactView
-    },
-    {
       path: '/projects',
-      name: '/projects',
+      name: 'projects',
       component: ProjectsView,
       children: [
         {
           path: '/projects:projectId',
-          name: 'projects:projectId',
+          name: 'project',
           component: ProjectView
         }
       ]
     },
     {
       path: '/music',
-      name: '/music',
+      name: 'music',
       component: MusicView
+    },
+    {
+      path: '/contact',
+      name: 'contact',
+      component: ContactView
     },
     {
       path: '/:notFound(.*)',
