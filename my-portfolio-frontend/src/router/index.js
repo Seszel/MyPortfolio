@@ -41,6 +41,11 @@ const router = createRouter({
       path: '/music',
       name: '/music',
       component: MusicView
+    },
+    {
+      path: '/:notFound(.*)',
+      name: 'notFound',
+      component: NotFoundView
     }
   ]
 })
