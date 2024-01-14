@@ -1,0 +1,14 @@
+{
+    "locale": {
+      "en": "Angielski",
+      "pl": "Polski"
+    },
+    "nav": {
+      "home": "Strona główna",
+      "about": "O mnie",
+      "projects": "Projekty",
+      "music": "Muzyka",
+      "contact": "Kontakt"
+    }
+  }
+  

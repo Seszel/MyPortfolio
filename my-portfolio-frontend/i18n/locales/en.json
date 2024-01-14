@@ -1,0 +1,13 @@
+{
+  "locale": {
+    "en": "English",
+    "pl": "Polish"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "music": "Music",
+    "contact": "Contact"
+  }
+}
