@@ -9,6 +9,27 @@
       "projects": "Projekty",
       "music": "Muzyka",
       "contact": "Kontakt"
+    },
+    "aboutView": {
+      "all": "Jestem Asia i potrzebuje trochę ciepełka"
+    },
+    "contactView":{
+      "all": "Skontaktuj się ze mną przez formularz"
+    },
+    "homeView":{
+      "all": "Witam na mojej stronie"
+    },
+    "musicView": {
+      "all": "Muzyka"
+    },
+    "notFoundView": {
+      "all": "To nie jest strona, której poszukujesz"
+    },
+    "projectsView": {
+      "all": "Moje projekciki"
+    },
+    "projectView": {
+      "all": "Hmmm"
     }
   }
   

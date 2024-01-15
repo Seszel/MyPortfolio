@@ -1,5 +1,5 @@
 <template>
     <div>
-        Moje projekciki
+        {{ $t('projectsView.all')}}
     </div>
 </template>

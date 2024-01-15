@@ -1,5 +1,5 @@
 <template>
     <div>
-        Mój projekt
+        {{ $t('projectView.all')}}
     </div>
 </template>

@@ -9,5 +9,26 @@
     "projects": "Projects",
     "music": "Music",
     "contact": "Contact"
+  },
+  "aboutView": {
+    "all": "I am Asia and I need some warm"
+  },
+  "contactView":{
+    "all": "Contact with me through form"
+  },
+  "homeView":{
+    "all": "Welcome om my page"
+  },
+  "musicView": {
+    "all": "Music"
+  },
+  "notFoundView": {
+    "all": "This is not the page you are looking for"
+  },
+  "projectsView": {
+    "all": "My projects"
+  },
+  "projectView": {
+    "all": "Hmmm"
   }
 }

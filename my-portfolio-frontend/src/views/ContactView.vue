@@ -1,5 +1,5 @@
 <template>
     <div>
-        Skontaktuj się ze mną przez formularz
+        {{ $t('contactView.all')}}
     </div>
 </template>

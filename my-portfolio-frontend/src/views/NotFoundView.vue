@@ -1,5 +1,5 @@
 <template>
     <div>
-        To nie jest strona, której poszukujesz
+        {{ $t('notFoundView.all')}}
     </div>
 </template>

@@ -1,5 +1,5 @@
 <template>
     <div>
-        Muzyka!
+        {{ $t('musicView.all')}}
     </div>
 </template>

@@ -1,5 +1,5 @@
 <template>
-  <div>Witam na mojej stronie</div>
+  <div>{{ $t('homeView.all')}}</div>
 </template>
 
 <script>
