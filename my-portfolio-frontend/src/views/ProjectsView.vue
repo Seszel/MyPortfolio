@@ -1,5 +1,6 @@
 <template>
-    <div>
-        {{ $t('projectsView.all')}}
-    </div>
+  <div>
+    {{ $t('projectsView.all') }}
+  </div>
+  <RouterView></RouterView>
 </template>

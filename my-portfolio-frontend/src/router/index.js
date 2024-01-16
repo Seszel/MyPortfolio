@@ -27,7 +27,7 @@ const router = createRouter({
       component: ProjectsView,
       children: [
         {
-          path: '/projects:projectId',
+          path: '/projects/:projectId',
           name: 'project',
           component: ProjectView
         }
