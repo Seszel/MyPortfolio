@@ -10,11 +10,19 @@
     "music": "Music",
     "contact": "Contact"
   },
+  "button":{
+    "send": "Send"
+  },
   "aboutView": {
     "all": "I am Asia and I need some warm"
   },
   "contactView":{
-    "all": "Contact with me through form"
+    "nameInput": "Enter your name",
+    "emailInput": "Enter your e-mail",
+    "messageInput": "Enter your message",
+    "nameLabel": "Name",
+    "emailLabel": "E-mail",
+    "messageLabel": "Message"
   },
   "homeView":{
     "all": "Welcome om my page"

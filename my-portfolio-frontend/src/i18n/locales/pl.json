@@ -10,11 +10,19 @@
       "music": "Muzyka",
       "contact": "Kontakt"
     },
+    "button":{
+      "send": "Wyślij"
+    },
     "aboutView": {
       "all": "Jestem Asia i potrzebuje trochę ciepełka"
     },
     "contactView":{
-      "all": "Skontaktuj się ze mną przez formularz"
+      "nameInput": "Wpisz Twoje imię",
+      "emailInput": "Wpisz Twój mail",
+      "messageInput": "Wpisz treść Twojej wiadomości",
+      "nameLabel": "Imię",
+      "emailLabel": "E-mail",
+      "messageLabel": "Wiadomość"
     },
     "homeView":{
       "all": "Witam na mojej stronie"
