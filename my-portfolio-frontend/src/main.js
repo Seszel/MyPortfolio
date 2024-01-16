@@ -17,8 +17,8 @@ app.use(createPinia())
 app.use(router)
 app.use(i18n)
 
-app.component(BaseButton)
-app.component(BaseCard)
-app.component(BaseDialog)
+app.component('BaseButton', BaseButton)
+app.component('BaseCard', BaseCard)
+app.component('BaseDialog', BaseDialog)
 
 app.mount('#app')
