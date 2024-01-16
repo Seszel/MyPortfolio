@@ -101,6 +101,14 @@ p {
 a:hover {
   color: var(--gamboge);
 }
+li a.router-link-active {
+  text-decoration: underline;
+  color: var(--gamboge);
+}
+.dropdown-content a:hover {
+  background-color: var(--gamboge);
+  border-radius: 4px;
+}
 .dropdown-content {
   display: none;
   position: absolute;
